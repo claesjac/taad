@@ -15150,8 +15150,8 @@ Source: RS Component / Phycomp</description>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="IC1" library="v-reg" deviceset="LD117A?*" device="S" technology="33TR"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
-<part name="C2" library="resistor" deviceset="C-EU" device="C0805" value="100n"/>
-<part name="C1" library="resistor" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C2" library="resistor" deviceset="C-EU" device="C0805" value="0.1µ"/>
+<part name="C1" library="resistor" deviceset="C-EU" device="C0805" value="0.1µ"/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
@@ -15190,10 +15190,10 @@ Source: RS Component / Phycomp</description>
 <part name="ERASE" library="switch-omron" deviceset="10-XX" device=""/>
 <part name="+3V3" library="supply1" deviceset="+3V3" device=""/>
 <part name="C11" library="rcl" deviceset="C-EU" device="C0805" value="10µ"/>
-<part name="C10" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C10" library="rcl" deviceset="C-EU" device="C0805" value="0.1µ"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="+3V7" library="supply1" deviceset="+3V3" device=""/>
-<part name="C9" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C9" library="rcl" deviceset="C-EU" device="C0805" value="0.1µ"/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="I/O-PWM" library="max696x" deviceset="MAX6967AEE" device=""/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
@@ -15216,7 +15216,7 @@ Source: RS Component / Phycomp</description>
 <part name="C14" library="rcl" deviceset="C-EU" device="C0805" value="0.1µ"/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="+3V9" library="supply1" deviceset="+3V3" device=""/>
-<part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="0.1µ"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device=""/>
 <part name="D1" library="diode" deviceset="DIODE-" device="SOD123"/>
